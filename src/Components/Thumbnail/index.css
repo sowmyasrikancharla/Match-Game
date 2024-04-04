@@ -1,0 +1,9 @@
+.thumbnail {
+  height: 100px;
+  width: 100px;
+  margin: 10px;
+}
+.but {
+  border-style: none;
+  background-color: transparent;
+}

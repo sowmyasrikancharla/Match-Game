@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.tab-style {
+  color: #ffffff;
+  font-size: 20px;
+  list-style-type: none;
+  padding: 10px;
+  border: none;
+  background-color: transparent;
+}
+.activetab-style {
+  color: #fec653;
+  font-size: 20px;
+  list-style-type: none;
+  padding: 10px;
+  border: none;
+  border-bottom: 2px #fec653 solid;
+  background-color: transparent;
+}
+.no-dot {
+  list-style-type: none;
+}

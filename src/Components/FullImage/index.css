@@ -1,0 +1,15 @@
+@media (min-width: 768px) {
+  .question-img {
+    height: 300px;
+    width: 500px;
+    margin-top: 5px;
+    margin-left: 30%;
+  }
+}
+@media (max-width: 768px) {
+  .question-img {
+    height: 300px;
+    width: 400px;
+    margin-top: 5px;
+  }
+}
